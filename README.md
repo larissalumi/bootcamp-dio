@@ -1,5 +1,7 @@
 # Bootcamp DIO Randstad -Backend com .NET  
 Todos os códigos que fiz durante o curso "Randstad - Backend com .NET" através da plataforma DIO  
+[![Link do Bootcamp](https://img.shields.io/badge/▶-000?style=for-the-badge&logo=movie&logoColor=E94D5F)](https://web.dio.me/track/272e799b-a64d-4048-90a3-adfdceafe244?tab=path) 
+[![Link do Bootcamp](https://img.shields.io/badge/Acesso%20ao%20Bootcamp-A06BB0?style=for-the-badge)](https://web.dio.me/track/272e799b-a64d-4048-90a3-adfdceafe244?tab=path)
 
 ## Badges
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white) ![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Azure](https://img.shields.io/badge/Azure-blue?style=for-the-badge&logo=microsoft%20azure&logoColor=blue&labelColor=FFFFFF&link=https%3A%2F%2Fimages.app.goo.gl%2FK7PN1jYJd57x4q7A8)
