@@ -7,8 +7,9 @@ Todos os códigos que fiz durante o curso "Randstad - Backend com .NET" através
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white) ![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Azure](https://img.shields.io/badge/Azure-blue?style=for-the-badge&logo=microsoft%20azure&logoColor=blue&labelColor=FFFFFF&link=https%3A%2F%2Fimages.app.goo.gl%2FK7PN1jYJd57x4q7A8)
 
 ## Algumas Considerações
+Como o meu objetivo é compartilhar o meu progresso - e não promover a pirataria - o foco é quase exclusivo nos códigos, todo o conteúdo disponível está na plataforma da DIO e no meu caderno, é claro!
 Para ficar menos sobrecarregado, não coloquei todas as anotações em apenas um Program.cs, mas dividi em outras pastas da seguinte forma:
-- __dotnet:__ Conteúdo introdutório: operadores, estruturas de repetição, array e lista -> como são muito similares a C - linguagem que já estava acostumada - não realizei todas as anotações, meu foco foi em esporádicos testes para me familiarizar com a linguagem
+- __dotnet:__ Conteúdo introdutório: operadores, estruturas de repetição, array e lista -> como são muito similares a C - linguagem que já estava acostumada - não realizei todos os códigos, meu foco foi em esporádicos testes para me familiarizar com a linguagem
 - __novo:__ Conteúdo que não havia aprendido ainda. Quando tinha bastante tempo reservado para os estudos, decidi mudar os exemplos para testar o meu conhecimento.
 
 ## Desafios
